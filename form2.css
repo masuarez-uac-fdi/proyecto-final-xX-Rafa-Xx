@@ -1,0 +1,11 @@
+body{
+    background: url(imagenes/back.jpg) no-repeat center center fixed;
+    background-size: cover;
+}
+.modal-content{
+  background-color: inherit;
+  color: white;
+}
+.cabeza{
+  color: white;
+}
